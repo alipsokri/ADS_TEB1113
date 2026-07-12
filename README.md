@@ -14,3 +14,4 @@
 |               |       | [Queue Array](ADS_Lab5/Queue%20(Array)/Queue%20(Array).cpp)                  |
 |               |       | [Queue LinkedList](ADS_Lab5/Queue%20(LinkedList)/Queue%20(LinkedList).cpp)   |
 | 3 Jul 2026    | Lab 6 | [Binary Search Tree](ADS_Lab6/BinaryTree.cpp)                                |
+| 10 Jul 2026   | Lab 7 | [Graph]()                                |
